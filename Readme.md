@@ -1,0 +1,2 @@
+- Start the project on 7.2 version : symfony new sandboxSymfony --version="7.2.x" --webapp
+- start the server : symfony server:start
